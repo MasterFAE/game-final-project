@@ -1,6 +1,4 @@
-# FIGame
-
-# Group-27
+# FIGame - Group-27
 Nuh Yiğit Akman
 Sinan Gürcan
 
