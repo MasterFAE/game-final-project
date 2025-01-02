@@ -1,7 +1,7 @@
 # FIGame - Group-27
 - Nuh Yiğit Akman
 - Sinan Gürcan
-
+- Github Url: https://github.com/MasterFAE/game-final-project
 
 # Resources
 - Unity Documentation: https://docs.unity.com
